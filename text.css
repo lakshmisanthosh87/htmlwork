@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    unicode-bidi: ;
+}
+
+p{
+    text-align: justify;
+}
+
+h2{
+    text-align-last: justify;
+}
+
+h3{
+    direction: rtl;
+}
