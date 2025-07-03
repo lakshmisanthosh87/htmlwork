@@ -1,0 +1,9 @@
+div{
+    width: 900px;
+    height: 600px;
+    background-color: blueviolet;
+    background-image:url(aws.jpg) ;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+}

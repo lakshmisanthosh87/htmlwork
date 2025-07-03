@@ -1,0 +1,14 @@
+h1{
+    letter-spacing: 10px;
+    word-spacing: 50px;
+     text-indent: 50px;
+     line-height: 20px;
+    white-space: 20px; 
+
+}
+
+h2{
+    font-size: 50px;
+    font-weight: 50px;
+text-shadow: 3px 3px 10px rgb(218, 49, 105) ;
+}
