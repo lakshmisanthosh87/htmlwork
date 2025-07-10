@@ -5,9 +5,10 @@
 }
 
 div{
-    height: 100vh;
+    height: 50vh;
     width: 100vw;
-    background-color: blue;
+    background-color: rgb(35, 156, 51);
     padding: 50px;
+    /* box-sizing: content-box; */
     box-sizing: border-box;
 }
