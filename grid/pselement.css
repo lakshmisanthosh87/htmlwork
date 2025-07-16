@@ -1,0 +1,13 @@
+/* p::first-letter{
+    color:brown
+} */
+
+/* 
+p::before{
+    content:"hi";
+} */
+
+li::marker{
+    color: blue;
+    
+}
