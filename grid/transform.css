@@ -1,0 +1,21 @@
+button{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    transition-duration: 3s;
+}
+button:hover{
+    /* transform: translate(200px); */
+    /* transform: translate(-200px); */
+    /* transform: rotate(360deg); */
+    /* transform: rotateX(180deg); */
+    /* transform: rotateY(180deg); */
+    /* transform: scale(20,40); */
+    /* transform: scaleX(2); */
+    /* transform: scaleY(6); */
+    /* transform: scaleZ(8); */
+    /* transform: skewX(360deg); */
+    /* transform: skewY(260deg); */
+    /* transform: skew(260deg,360deg); */                              
+     
+} 

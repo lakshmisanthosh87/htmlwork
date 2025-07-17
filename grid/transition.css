@@ -2,11 +2,37 @@ button{
     background-color: blueviolet;
     width: 80px;
     height: 60px;
-    transition-delay: 2s;
-    transition-duration: 3s;
+     /* transition-delay: 2s;  */
+    transition-duration: 5s;
+    transition-property: width,background-color;
 
 
 }
 button:hover{
     background-color:red;
+    width: 100px;
+    /* height: 89px; */
+    /* color: green; */
+}
+
+
+button{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    
+
+
+}
+.btn1{
+    transition-property: width;
+
+}
+.btn1:hover{
+    width:300px;
+    /* transition-timing-function: ease; */
+    transition-duration: 3s;
+    /* transition-timing-function: ease-in; */
+    /* transition-timing-function: ease-in-out; */
+    transition-timing-function: ease-out;
 }
