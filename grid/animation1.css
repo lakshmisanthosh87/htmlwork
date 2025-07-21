@@ -60,3 +60,10 @@
     background-color:  blueviolet;
 }
 }
+
+@media  only screen and(min-width:768px) {
+    .main{
+        background-color: greenyellow;
+    }
+    
+}

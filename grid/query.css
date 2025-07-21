@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.main{
+    width: 700px;
+    height: 500px;
+    background-color: violet;
+}
+@media only screen and (max-width:768px) {
+    .main{
+        background-color: chartreuse;
+    }
+}
+
